@@ -26,15 +26,17 @@
 
 ## 🛠 Languages & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,postman,sql,git,github,vscode" />
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Python-logo-notext.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Synapse_Analytics_logo.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="45"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
->
 
 
 
