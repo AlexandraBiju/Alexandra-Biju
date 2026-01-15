@@ -26,17 +26,11 @@
 
 ## 🛠 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,azure,powerbi,git,github,vscode,sql" />
+  <img src="https://skillicons.dev/icons?i=python,azure,powerbi,postman,sql,git,github,vscode" />
 </p>
 
----
 
-## 📈 GitHub Stats
-![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Contact
 - ✉️ Mail: *bijualexandra2000@gmail.com*
