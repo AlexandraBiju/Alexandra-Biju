@@ -25,7 +25,7 @@
 
 ## 🛠 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postman,microsoft powerbi,git,github,vscode,sql" />
+  <img src="https://skillicons.dev/icons?i=python,postman,microsoftpowerbi,git,github,vscode,sql" />
 </p>
 
 
