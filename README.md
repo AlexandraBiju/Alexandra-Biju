@@ -25,9 +25,16 @@
 - KI-unterstützte Analyse
 
 ## 🛠 Languages & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,azure,powerbi,postman,sql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,postman,sql,git,github,vscode" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+>
 
 
 
