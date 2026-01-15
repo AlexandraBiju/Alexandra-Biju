@@ -25,7 +25,7 @@
 
 ## 🛠 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postman,git,github,vscode,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,postman,git,github,vscode,sql" />
 </p>
 
 
